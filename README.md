@@ -1,4 +1,4 @@
 # demo
 this is my first git repository.
 <br>
-Author-Shridhar Akki
+Author-Shridhar Akki(cs)
